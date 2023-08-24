@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Transmisión en Vivo de SpacioTV
+https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
+#EXTINF:-1,Transmisión en Vivo de telefe
+https://telefecanal1.akamaized.net/hls/live/2033413/canal11salta/TOK/master.m3u8
