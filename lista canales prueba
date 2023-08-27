@@ -3,3 +3,5 @@
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 #EXTINF:-1,Transmisión en Vivo de Canal 10 salta
 https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
+#EXTINF:-1,Telefe salta
+https://telefecanal1.akamaized.net/hls/live/2033413/canal11salta/TOK/hdntl=exp=1693247104~acl=%2f*~data=hdntl~hmac=890b2e5f51c1d8ce06a012b49c4ea2628184a7e3f8b855ea5d5de7f3bec52e45/master0.m3u8
