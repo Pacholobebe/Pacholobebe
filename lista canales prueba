@@ -12,6 +12,11 @@ https://01.solumedia.com.ar:10008/stream?icy=http
 #EXTINF:-1,FM LUZ DE BENGALA METAN
 http://stream-153.zeno.fm/g35g9wb8v68uv?zs=csS6O0lmTFq9Sr2NI1Hp5w&1693161752426
 #EXTINF:-1,FM IMPACTO METAN
-https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_13162_stream_885729710
+https://stream-150.zeno.fm/93bfgb9d7a0uv?zs=HyAxOs_yTAm2A_B0F-ua0w
+#EXTINF:-1, CANAL 2 SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1, CANAL 10 NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+
 
 
