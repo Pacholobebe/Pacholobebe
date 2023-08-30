@@ -17,6 +17,12 @@ https://stream-150.zeno.fm/93bfgb9d7a0uv?zs=HyAxOs_yTAm2A_B0F-ua0w
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1, CANAL 10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:-1, RADIO MIX METAN
+https://server6.hostradios.com/8100/stream
+#EXTINF:-1, RADIO CIUAD (METAN)
+https://streaming5.locucionar.com/proxy/radiociudad1009?mp=/stream/1/
+#EXTINF:-1, FM spacio METAN
+https://sonic.dattalive.com/8598/stream
 
 
 
