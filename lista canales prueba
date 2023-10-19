@@ -1,6 +1,6 @@
 #EXTM3U
-EXTINF:-1,telefe salta
-https://telefecanal1.akamaized.net/hls/live/2033413/canal11salta/TOK/hdntl=exp=1693677354~acl=%2f*~data=hdntl~hmac=b02a075d428aa8e177555e368b7c51a4ab97cd52877c7642774560dd13e95845/master0.m3u8
+#EXTINF:-1,FM SALTASUR
+https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
 #EXTINF:-1,SpacioTV
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 #EXTINF:-1,Canal 10 salta
@@ -8,9 +8,9 @@ https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
 #EXTINF:-1,bloke radio
 https://masstreaming.online:7200/stream
 #EXTINF:-1,FM fantastica
-https://ssl.turadioinfo.com/sc/5478/stream/?type=http&nocache=1
+https://stream.radioinfo.ar/5478/stream/?type=http&nocache=1
 #EXTINF:-1,FM la carperita salta
-https://01.solumedia.com.ar:10008/stream?icy=http
+https://01.solumedia.com.ar:8428/stream?icy=http
 #EXTINF:-1,FM LUZ DE BENGALA METAN
 http://stream-153.zeno.fm/g35g9wb8v68uv?zs=csS6O0lmTFq9Sr2NI1Hp5w&1693161752426
 #EXTINF:-1,FM IMPACTO METAN
