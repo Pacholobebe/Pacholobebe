@@ -3,6 +3,8 @@
 https://panel.dattalive.com/8250/8250/chunklist_w1989083637.m3u8
 #EXTINF:-1,MOSCONI TV
 https://panel.dattalive.com/8126/8126/chunklist_w1834293758.m3u8
+#EXTINF:-1,tn en vivo
+https://live-01-01-tn.vodgc.net/TN24/tracks-v2a1/mono.m3u8
 #EXTINF:-1,FM SALTASUR
 https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
 #EXTINF:-1,SpacioTV
