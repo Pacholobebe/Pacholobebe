@@ -2,7 +2,7 @@
 #EXTINF:-1,MULTIVISION FEDERAL
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715733227/ei/i65DZpHHK_Wo-LAP7JawEA/ip/38.51.88.35/id/0d1a157e07e20f64/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D101133058%3Bdur%3D213.313%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1701027387371480/rqh/1/hls_chunk_host/rr4---sn-u8n5-na5s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/KZ/mm/31,29/mn/sn-u8n5-na5s,sn-j5cax8pnpvo-x1xey/ms/au,rdu/mv/m/mvi/4/pl/24/initcwndbps/785000/vprv/1/playlist_type/DVR/dover/13/txp/5319224/mt/1715711099/fvip/5/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAJldBPuvis7eYfMLkBz4WHaPALxAI9cu8Xad5n6rJ_v2AiBKhl2Lh9A_713JromzwlN1ZZ2_uZPLwXsq3XXeMsEiBw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AHWaYeowRQIhAJtmkSNvmC4v_FPuYlKFwWVfhP-zTAAiY71RL5psh8_bAiAB17wHyBk00qPbxqJ1QhxdAqfP3iVd67382yIObgtpuw%3D%3D/playlist/index.m3u8
 #EXTINF:-1,MOSCONI TV
-https://panel.dattalive.com/8126/8126/chunklist_w1834293758.m3u8
+https://panel.host-live.com/8126/8126/chunklist_w1379441757.m3u8
 #EXTINF:-1,tn en vivo
 https://live-01-01-tn.vodgc.net/TN24/tracks-v2a1/mono.m3u8
 #EXTINF:-1,FM SALTASUR
