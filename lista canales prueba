@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,MULTIVISION FEDERAL
 https://panel.host-live.com/8250/8250/chunklist_w1757706130.m3u8
-#EXTINF:-1,CANAL 1O TUCUMAN
-https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1716941153&h=dad9a4b54684ad7d1447792e1f21db04
-#EXTINF:-1,EL ONCE TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716872484/ei/xBBVZsrLEbHk1sQP37qRkAs/ip/38.51.88.35/id/XCZNSPsMCdI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQNoV_8U-aRdK_FljHKzJ1LRlEXav3ZEJgtj4dz3tPP4CIQCNL5XH4FD-qcxqEaAciNujb9DVUTkRvv7UzLCiCokcPw%3D%3D/file/index.m3u8
+#EXTINF:-1,FM SIN CONTROL SALTA
+https://streaming01.shockmedia.com.ar:10568/stream?icy=http
 #EXTINF:-1,MOSCONI TV
 https://panel.host-live.com/8126/8126/chunklist_w1379441757.m3u8
 #EXTINF:-1,FM SALTASUR
