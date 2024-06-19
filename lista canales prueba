@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, CANAL 9 MENDOZA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1, CANAL 12 tartagal
+https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
 #EXTINF:-1, EL ONCE TV SALTA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718337506/ei/gmtrZumfKP-0obIPmfqkqAk/ip/38.51.88.35/id/XCZNSPsMCdI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANod_c7ytnm0GTm0tFMkMaMhYabdWvrARJzpVE9aIes3AiEAnv25Fq1VFojHmhw5LlI2e18IMMHf9LlGj97emVXo-pk%3D/file/index.m3u8
 #EXTINF:-1,MULTIVISION FEDERAL
