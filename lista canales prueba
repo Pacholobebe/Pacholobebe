@@ -1,15 +1,32 @@
 #EXTM3U
-
-#EXTINF:-1,SpacioTV
+#EXTINF:-1, CANAL 9 MENDOZA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1, CANAL BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1, CANAL MILENIUM SALTA
+https://videostream.shockmedia.com.ar:19360/milleniumtv/milleniumtv.m3u8
+#EXTINF:-1, CANAL 12 tartagal
+https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
+#EXTINF:-1, CANAL 7 SALTA
+https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
+#EXTINF:-1,MULTIVISION FEDERAL
+https://panel.host-live.com/825000/825000/chunklist_w1692361838.m3u8
+#EXTINF:-1,FM SIN CONTROL SALTA
+https://streaming01.shockmedia.com.ar:10568/stream?icy=http
+#EXTINF:-1,MOSCONI TV
+https://panel.host-live.com/8126/8126/chunklist_w1379441757.m3u8
+#EXTINF:-1,FM SALTASUR
+https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
+#EXTINF:-1,SpacioTV METAN
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 #EXTINF:-1,Canal 10 salta
-https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
+#EXTINF:-1,FM SAN MARTIN ROSARIO DE LA FRONTERA
+https://stream.radioinfo.ar/p/8048/;
 #EXTINF:-1,bloke radio
-https://masstreaming.online:7200/stream
+https://srv7.streamingradio.ar/8072/stream
 #EXTINF:-1,FM fantastica
-https://ssl.turadioinfo.com/sc/5478/stream/?type=http&nocache=1
-#EXTINF:-1,FM la carperita salta
-https://01.solumedia.com.ar:8428/stream?icy=http
+https://stream.radioinfo.ar/5478/stream/?type=http&nocache=1
 #EXTINF:-1,FM LUZ DE BENGALA METAN
 http://stream-153.zeno.fm/g35g9wb8v68uv?zs=csS6O0lmTFq9Sr2NI1Hp5w&1693161752426
 #EXTINF:-1,FM IMPACTO METAN
@@ -24,6 +41,10 @@ https://server6.hostradios.com/8100/stream
 https://streaming5.locucionar.com/proxy/radiociudad1009?mp=/stream/1/
 #EXTINF:-1, FM spacio METAN
 https://sonic.dattalive.com/8598/stream
+#EXTINF:-1, DSPORTS RADIO
+https://24493.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:-1, RADIO ARIAS JUJUY
+https://cdn.instream.audio/:9095/stream
 
 
 
