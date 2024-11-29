@@ -20,7 +20,7 @@ https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
 #EXTINF:-1,SpacioTV METAN
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 #EXTINF:-1,Canal 10 salta
-https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
 #EXTINF:-1,FM SAN MARTIN ROSARIO DE LA FRONTERA
 https://stream.radioinfo.ar/p/8048/;
 #EXTINF:-1,bloke radio
@@ -45,11 +45,6 @@ https://sonic.dattalive.com/8598/stream
 https://24493.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1, RADIO ARIAS JUJUY
 https://cdn.instream.audio/:9095/stream
-#EXTINF:-1, REN Y STIMPY
-https://videos2.sendvid.com/e0/14/3c6ol1ck.mp4?validfrom=1731235865&validto=1731250265&rate=200k&ip=190.2.125.177&hash=qQmKkNQAvfIVGnUpdTm%2FGsIRAVo%3D
-#EXTINF:-1, REN Y STIMPY
-https://videos2.sendvid.com/6a/18/b4jomfw8.mp4?validfrom=1731236035&validto=1731250435&rate=160k&ip=190.2.125.177&hash=xfyLTKFXUByebwBebJI%2FMidMm9M%3D
-#EXTINF:-1, REN Y STIMPY
-https://videos2.sendvid.com/17/0b/6g5bvcyr.mp4?validfrom=1731236174&validto=1731250574&rate=160k&ip=190.2.125.177&hash=xmlFPMHU59TjaHB%2FgHItP2%2BNB%2Bo%3D
+
 
 
