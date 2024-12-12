@@ -4,7 +4,7 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1, CANAL BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1, CANAL MILENIUM SALTA
-https://videostream.shockmedia.com.ar:19360/milleniumtv/milleniumtv.m3u8
+https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 #EXTINF:-1, CANAL 12 tartagal
 https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
 #EXTINF:-1, CANAL 7 SALTA
@@ -20,7 +20,7 @@ https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
 #EXTINF:-1,SpacioTV METAN
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 #EXTINF:-1,Canal 10 salta
-https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
 #EXTINF:-1,FM SAN MARTIN ROSARIO DE LA FRONTERA
 https://stream.radioinfo.ar/p/8048/;
 #EXTINF:-1,bloke radio
@@ -30,11 +30,9 @@ https://stream.radioinfo.ar/5478/stream/?type=http&nocache=1
 #EXTINF:-1,FM LUZ DE BENGALA METAN
 http://stream-153.zeno.fm/g35g9wb8v68uv?zs=csS6O0lmTFq9Sr2NI1Hp5w&1693161752426
 #EXTINF:-1,FM IMPACTO METAN
-https://stream-150.zeno.fm/93bfgb9d7a0uv?zs=HyAxOs_yTAm2A_B0F-ua0w
+https://stream-174.zeno.fm/93bfgb9d7a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5M2JmZ2I5ZDdhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilk2M2E2M2JoVE5TSUxQSWN2MXhmYVEiLCJpYXQiOjE3MzM5NjEyNzgsImV4cCI6MTczMzk2MTMzOH0.llupmGpAdokcMQrK8Op-WSbmBtJG3NNKN8Qvlr8Bx4A&an-uid=1830906192939065301
 #EXTINF:-1, CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1, CANAL 10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1, RADIO MIX METAN
 https://server6.hostradios.com/8100/stream
 #EXTINF:-1, RADIO CIUAD (METAN)
