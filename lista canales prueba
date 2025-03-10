@@ -10,7 +10,7 @@ https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
 #EXTINF:-1, CANAL 7 SALTA
 https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
 #EXTINF:-1,MULTIVISION FEDERAL
-https://panel.host-live.com/825000/825000/chunklist_w1692361838.m3u8
+https://panel.host-live.com:19360/8250/8250.m3u8
 #EXTINF:-1,FM SIN CONTROL SALTA
 https://streaming01.shockmedia.com.ar:10568/stream?icy=http
 #EXTINF:-1,MOSCONI TV
