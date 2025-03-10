@@ -40,8 +40,12 @@ https://streaming5.locucionar.com/proxy/radiociudad1009?mp=/stream/1/
 #EXTINF:-1, FM spacio METAN
 https://sonic.dattalive.com/8598/stream
 #EXTINF:-1, DSPORTS RADIO
-https://24493.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+https://26583.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1, RADIO ARIAS JUJUY
 https://cdn.instream.audio/:9095/stream
+#EXTINF:-1, RADIO GUEMES
+http://190.61.250.140:8022/stream?type=http&nocache=11946
+#EXTINF:-1, FM CIELO
+https://cp.usastreams.com/html5-player-barra-responsive.aspx?stream=http://streaming.radiosenlinea.com.ar:10882/;&fondo=05&formato=mpeg&colorBLACK=8&titulo=3&autoStart=1&vol=5&nombre=CIELO%20FM&botonPlay=2
 
 
