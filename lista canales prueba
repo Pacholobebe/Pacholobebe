@@ -6,7 +6,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1269606916.m3u8
 #EXTINF:-1, CANAL MILENIUM SALTA
 https://milenium.alfasocialmedia.com.ar/live/milenium/index.m3u8
 #EXTINF:-1, CANAL 12 tartagal
-https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792208198/ei/5pjSaoDlC7XiobIPjI-mGQ/ip/2803:9800:9400:413d:4104:336e:199b:9315/id/nndzeKDSjuc.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ja5gv5g-na5l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AWzQHwrT1epnOw_MWCEWqdPmiu_2etNUFeHXHnPviplvDZAdrjdG11eNmqvvMIHXwXSP0TOGMpCvkskS/spc/mpRQ_-H-_woaqgOn--cmNaZJjVRw_H8EL_7FThEgDf1AoIF39-9ri9mO7Rr3/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2120750/met/1792186598,/mh/6s/mm/44/mn/sn-ja5gv5g-na5l/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51565115,52184231/mt/1792186140/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhANQniJuQ6SBZOj8Ndv69RosQ7hCR7La8QKhQoSAHEW3GAiEAuHax9VrtumWEZDljxaWayLqNnps3oXIYLU0Xuof2FbU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYxd9SlQIIgiJEnekiWzwSp73gR6WGsBxmNTsZ10_6AYCIQDn7zJpu5Nu4F3YQog3FKMrhhY8xvbnUwCVApI84Gsavw%3D%3D/playlist/index.m3u8
 #EXTINF:-1, CANAL 7 SALTA
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 #EXTINF:-1,MULTIVISION FEDERAL
