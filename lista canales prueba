@@ -17,8 +17,20 @@ https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream
 https://live-ar1.cdnrad.com/hls/radio-1969/live.m3u8
 #EXTINF:-1,FM FANTASTICO SERRANO-SALTA
 https://server6.hostradios.com/8426/stream
+#EXTINF:-1,FM CIUDAD ORAN
+https://radios.solumedia.com/6430/stream
+#EXTINF:-1,FM RADIO SHOW SALTA
+https://edge03.radiohdvivo.com/saltaonline/radioshow
+#EXTINF:-1,FM 90.9
+https://rr3---sn-ajx1x5-5c.c.2mdn.net/videoplayback/id/cec6d01a62fd5f3f/itag/342/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3935327277/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/572FE2E3EEA8B2465A03DF5638371A3E8761BE7A.11C79AEE09C1F41BBAB047F15A6E688F6EA28843/key/cms1/cms_redirect/yes/met/1793232495,/mh/3B/mip/190.226.85.6/mm/42/mn/sn-ajx1x5-5c/ms/onc/mt/1793231895/mv/u/mvi/3/pl/24/rms/onc,onc/file/file.mp4
 #EXTINF:-1,MOSCONI TV
 https://vivo.solumedia.com:19360/mosconitv/mosconitv.m3u8
+#EXTINF:-1,RADIO UNO SALTA
+https://srv1.streamingradio.ar/8432/stream
+#EXTINF:-1,RADIO BELGRANO- EMBARCACION
+https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream
+#EXTINF:-1,RADIO EPOCAS
+https://epocas-radio-online.stream.laut.fm/epocas-radio-online?t302=2026-10-29_01-11-16&uuid=1e68578d-503a-a009-87af-f299b01f686a
 #EXTINF:-1,FM SALTASUR
 https://radio01.ferozo.com/proxy/ra01000859?mp=/stream
 #EXTINF:-1,SpacioTV METAN
@@ -35,8 +47,10 @@ https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CqoH7cYsx8Zt-9OTd
 https://stream.radioinfo.ar/5478/stream/?type=http&nocache=1
 #EXTINF:-1,FM LUZ DE BENGALA METAN
 http://stream-153.zeno.fm/g35g9wb8v68uv?zs=csS6O0lmTFq9Sr2NI1Hp5w&1693161752426
-#EXTINF:-1,FM IMPACTO METAN
-https://stream-174.zeno.fm/93bfgb9d7a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5M2JmZ2I5ZDdhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilk2M2E2M2JoVE5TSUxQSWN2MXhmYVEiLCJpYXQiOjE3MzM5NjEyNzgsImV4cCI6MTczMzk2MTMzOH0.llupmGpAdokcMQrK8Op-WSbmBtJG3NNKN8Qvlr8Bx4A&an-uid=1830906192939065301
+#EXTINF:-1,AM 840 SALTA
+https://01.solumedia.com.ar:8348/stream
+#EXTINF:-1,FM MUNICIPAL CACHI
+https://ssl.radiosnethosting.com/index.php?port=8148
 #EXTINF:-1, CANAL 2 SALTA
 https://vivo.solumedia.com:19360/canal2salta/canal2salta.m3u8
 #EXTINF:-1, RADIO MIX METAN
@@ -50,8 +64,8 @@ https://26583.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1, RADIO ARIAS JUJUY
 https://cdn.instream.audio/:9095/stream
 #EXTINF:-1, RADIO GUEMES
-http://190.61.250.140:8022/stream?type=http&nocache=11946
-#EXTINF:-1, FM CIELO
-https://cp.usastreams.com/html5-player-barra-responsive.aspx?stream=http://streaming.radiosenlinea.com.ar:10882/;&fondo=05&formato=mpeg&colorBLACK=8&titulo=3&autoStart=1&vol=5&nombre=CIELO%20FM&botonPlay=2
+https://server.radiostreaming.com.ar/8564/stream
+#EXTINF:-1, FM LA ESTACION
+https://01.solumedia.com.ar:8462/stream
 
 
