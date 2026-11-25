@@ -62,7 +62,7 @@ https://sonic.dattalive.com/8598/stream
 #EXTINF:-1, DSPORTS RADIO
 https://26583.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1, RADIO ARIAS JUJUY
-https://cdn.instream.audio/:9095/stream
+https://live-ar1.cdnrad.com/hls/radio-arias-fm-91-1/live.m3u8
 #EXTINF:-1, RADIO GUEMES
 https://server.radiostreaming.com.ar/8564/stream
 #EXTINF:-1, FM LA ESTACION
